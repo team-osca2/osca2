@@ -7,10 +7,10 @@
     }
 }
 
-@media (min-width: 1160px) {    
+@media (min-width: 1160px) {
     .logo-osca {
-        height: 25px;
-        margin-top: 6px;
+        height: 105px;
+        margin-top: -8px;
     }
 }
 

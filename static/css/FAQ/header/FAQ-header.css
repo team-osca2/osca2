@@ -107,7 +107,7 @@
 
 .dropdown-toggle::after {
     color: #888;
-    content: "  ㅁ";
+    content: "  ∨";
     display: inline-block;
     font-family: "entypo";
     vertical-align: middle;
